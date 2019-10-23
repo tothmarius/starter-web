@@ -17,3 +17,7 @@ Test 2
 ### Copyright
 
 2014 Copyright
+
+### How to contribute
+
+test
